@@ -22,6 +22,9 @@ print(average([1,5,4]))
 
 ## GAMLE ØVELSER ##
 """
+
+
+
 def min_nums(nums):
     min_num = nums[0]
     for n in nums:
