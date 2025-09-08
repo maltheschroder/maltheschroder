@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @maltheschroder
-- 👀 I’m interested in python and HTML (CSS)
-- 🌱 I’m currently learning about DATA
-- 📫 How to reach me: maltheschroder99@gmail.com or Instagram: @maltheschroder
